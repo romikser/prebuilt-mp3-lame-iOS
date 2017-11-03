@@ -1,0 +1,6 @@
+framework module lame {
+  umbrella header "lame.h"
+
+  export *
+  module * { export * }
+}
